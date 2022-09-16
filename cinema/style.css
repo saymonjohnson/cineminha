@@ -1,0 +1,23 @@
+h1 {
+  font-size: 60px;
+  background-color: antiquewhite;
+}
+a {
+  font-size: 30px;
+  color: green; 
+  text-decoration: none;
+}
+
+p {
+  color: blue;
+  font-size: 26px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hoje {
+  color: red;
+}
+
+.amanha {
+  color: hsl(236, 90%, 44%);
+}
